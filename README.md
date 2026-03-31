@@ -1,10 +1,10 @@
-# 🚗 ABC Motors Limited — Car Sales Dashboard (2022–2023)
+# ABC Motors Limited — Car Sales Dashboard (2022–2023)
 
 > An end-to-end sales analytics project built in Tableau, analysing 23,906 vehicle transactions across 7 dealer regions to uncover demand trends, brand performance, and actionable insights for FY2024 planning.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![ABC Motors Sales Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Period](https://img.shields.io/badge/Data%20Period-2022–2023-darkblue?style=for-the-badge)
@@ -14,17 +14,17 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 📦 abc-motors-sales-dashboard
- ┣ 📊 042_Kanishk_Tableau.twbx       # Packaged Tableau workbook (data + dashboard)
- ┣ 📄 README.md                       # This file
+ ┣ 042_Kanishk_Tableau.twbx       # Packaged Tableau workbook (data + dashboard)
+ ┣ README.md                       # This file
 ```
 
 ---
 
-## 🏢 Business Context
+## Business Context
 
 **ABC Motors Limited** is a leading automobile retail chain operating across the United States. The management team commissioned this analysis to:
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 | Metric | Value |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## 📉 Dashboard Sections
+## Dashboard Sections
 
 The Tableau workbook contains **8 interactive worksheets** assembled into a single dashboard:
 
@@ -69,7 +69,7 @@ The Tableau workbook contains **8 interactive worksheets** assembled into a sing
 
 ---
 
-## 🗂️ Dataset Overview
+## Dataset Overview
 
 The dataset covers all vehicle sales transactions recorded by ABC Motors Limited from January 2022 to December 2023.
 
@@ -94,7 +94,7 @@ The dataset covers all vehicle sales transactions recorded by ABC Motors Limited
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 Based on the analysis, the following actions are recommended for FY2024:
 
@@ -107,7 +107,7 @@ Based on the analysis, the following actions are recommended for FY2024:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ![Tableau](https://img.shields.io/badge/Tableau-Desktop%202022.1+-blue?style=flat-square&logo=tableau)
 ![Excel](https://img.shields.io/badge/Data%20Source-XLSM%20%2F%20CSV-green?style=flat-square&logo=microsoft-excel)
@@ -119,7 +119,7 @@ Based on the analysis, the following actions are recommended for FY2024:
 
 ---
 
-## 🚀 How to Open
+## How to Open
 
 1. Download or clone this repository
 2. Open **Tableau Desktop** (version 2022.1 or later)
@@ -131,7 +131,7 @@ Based on the analysis, the following actions are recommended for FY2024:
 
 ---
 
-## 👤 Author
+## Author
 
 **Kanishk**
 PGDM — Finance & Research/Business Analytics
